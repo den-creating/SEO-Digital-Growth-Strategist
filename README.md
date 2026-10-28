@@ -23,18 +23,26 @@ I implement enterprise-grade organic growth systems that connect search intent w
 - **Cross-Platform Social SEO:** Optimizing discoverability across TikTok, Instagram, and YouTube by leveraging semantic metadata, audio indexing, keyword-rich transcription hooks, and search-aligned editorial calendars.
 - **CMS & On-Page Engineering:** Streamlining editorial CMS publishing pipelines, schema markup implementation (NewsArticle, VideoObject, Organization), and on-page element optimization for maximum indexation efficiency.
 - **Audience Capture & Multi-Channel Distribution:** Aligning breaking media narratives with real-time search trends (Google Trends, Google Discover) to capture high-intent organic traffic surges and funnel them into owned digital communities.
-- **Data Analytics & Performance Auditing:** Monitoring organic footprint, crawl efficiency, click-through rates (CTR), and SERP positioning using Google Search Console, Google Analytics 4, and competitive intelligence tools.
+- **Data Analytics & Performance Auditing:** Monitoring organic footprint, crawl efficiency, click-through rates (CTR), and SERP positioning.
 
 ---
 
-### 🛠️ SEO & Growth Tech Stack
+### 🛠️ Industry-Standard SEO Stack (Top 10 Essential Tools)
 
-| Category | Tools & Frameworks | Methodologies & Focus |
-| :--- | :--- | :--- |
-| **Search Intelligence & Analytics** | Google Search Console, Google Analytics 4, Google Trends | SERP footprint analysis, indexation audits, search query intent modeling |
-| **Mapping & Architecture** | Topical Mapping, Keyword Clustering, Internal Link Siloing | Entity-first content hierarchies, pillar-cluster taxonomy, schema structuring |
-| **Platform Discovery (Social SEO)** | TikTok Search, Instagram Graph Search, YouTube SEO | Metadata engineering, keyword-dense caption structuring, algorithmic retention |
-| **CMS & Optimization Platforms** | WordPress / Custom Media CMS, Yoast / RankMath | Canonical integrity, OpenGraph tags, snippet optimization, Core Web Vitals awareness |
+These are the primary industry-standard platforms and specialized toolkits I leverage for audits, semantic engineering, and enterprise search growth:
+
+| # | Tool | Primary Discipline | How I Use It for Maximum Visibility |
+| :-: | :--- | :--- | :--- |
+| **1** | **Google Search Console (GSC)** | Webmaster & Indexation | Crawl status monitoring, query CTR optimization, indexing coverage, Core Web Vitals audits. |
+| **2** | **Google Analytics 4 (GA4)** | Web Analytics & Attribution | User intent mapping, organic conversion paths, engagement metrics, audience segmentation. |
+| **3** | **Ahrefs** | Backlink Analysis & Auditing | Link ecosystem profiling, competitor content gap audits, keyword difficulty benchmarking. |
+| **4** | **Semrush** | Competitor & SERP Intelligence | Market share analysis, SERP feature tracking, commercial keyword taxonomy, position monitoring. |
+| **5** | **Screaming Frog SEO Spider** | Technical Site Crawling | In-depth technical audits, redirect chains, orphan pages, canonical conflicts, schema validation. |
+| **6** | **Google Trends** | Trend Forecasting & News SEO | Real-time discovery hooks, breaking topical spikes, Google Discover narrative alignment. |
+| **7** | **PageSpeed Insights / Lighthouse** | Core Web Vitals & UX | LCP, FID/INP, and CLS speed diagnostics to secure algorithmic technical ranking advantages. |
+| **8** | **Yoast SEO / Rank Math** | CMS On-Page & Schema | Automated XML sitemaps, OpenGraph controls, structured data payloads, editorial snippet controls. |
+| **9** | **SurferSEO / Clearscope** | Content Optimization & NLP | Entity coverage, NLP term density, semantic clustering, content freshness benchmarks. |
+| **10** | **Social Platform Search Analytics** | Social SEO (TikTok / IG / YT) | In-app keyword volume, audio search indexing, hashtag cluster reach, algorithmic retention. |
 
 ---
 
@@ -47,7 +55,7 @@ I implement enterprise-grade organic growth systems that connect search intent w
 [ Semantic Mapping & Topic Clustering (Entity-Based Architecture) ]
                                │
                                ▼
-[ Editorial Execution & Schema Structuring (CMS Optimization) ]
+[ Technical Crawl Audits & Schema Structuring (Screaming Frog / RankMath) ]
                                │
                                ▼
 [ Cross-Platform Social SEO Amplification (TikTok / IG / YouTube Search) ]
